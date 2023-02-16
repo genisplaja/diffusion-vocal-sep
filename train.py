@@ -14,7 +14,7 @@ from config import Config
 from dataset import MUSDB
 from model import DiffWave
 
-os.environ["CUDA_VISIBLE_DEVICES"] = "1"
+###os.environ["CUDA_VISIBLE_DEVICES"] = "1"  # Manually add your GPU id here!
 
 class Trainer:
     """WaveGrad trainer.
