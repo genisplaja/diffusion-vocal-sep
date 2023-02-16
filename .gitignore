@@ -1,0 +1,19 @@
+# python
+__pycache__
+
+# train
+output
+ckpt
+log
+
+# test sample
+sample
+
+# additional files not needed or being fixed
+inf_sar.py
+medley.py
+inference.py
+run_inference.py
+run_inference_2.py
+perceptual.py
+OLD_README.md
